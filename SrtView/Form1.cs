@@ -179,11 +179,14 @@ namespace SrtView
             if (FormBorderStyle == FormBorderStyle.Sizable) // если у формы есть рамка
             {
                 FormBorderStyle = FormBorderStyle.None; // отключение рамки
+                TransparencyKey = Color.Black;
             }
             else
             {
                 FormBorderStyle = FormBorderStyle.Sizable; // включение рамки
+                TransparencyKey = Color.Transparent;
             }
+            
         }
 
         /// <summary>

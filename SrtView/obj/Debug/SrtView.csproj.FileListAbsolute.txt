@@ -17,3 +17,13 @@ D:\VisualStudioPR\SrtView\SrtView\obj\Debug\SrtView.csproj.CoreCompileInputs.cac
 D:\VisualStudioPR\SrtView\SrtView\obj\Debug\SrtView.exe
 D:\VisualStudioPR\SrtView\SrtView\obj\Debug\SrtView.pdb
 D:\VisualStudioPR\SrtView\SrtView\obj\Debug\SrtView.Form1.resources
+C:\!Disk\VisualStudio\SrtView\SrtView\bin\Debug\SrtView.exe.config
+C:\!Disk\VisualStudio\SrtView\SrtView\bin\Debug\SrtView.exe
+C:\!Disk\VisualStudio\SrtView\SrtView\bin\Debug\SrtView.pdb
+C:\!Disk\VisualStudio\SrtView\SrtView\obj\Debug\SrtView.csproj.AssemblyReference.cache
+C:\!Disk\VisualStudio\SrtView\SrtView\obj\Debug\SrtView.Form1.resources
+C:\!Disk\VisualStudio\SrtView\SrtView\obj\Debug\SrtView.Properties.Resources.resources
+C:\!Disk\VisualStudio\SrtView\SrtView\obj\Debug\SrtView.csproj.GenerateResource.cache
+C:\!Disk\VisualStudio\SrtView\SrtView\obj\Debug\SrtView.csproj.CoreCompileInputs.cache
+C:\!Disk\VisualStudio\SrtView\SrtView\obj\Debug\SrtView.exe
+C:\!Disk\VisualStudio\SrtView\SrtView\obj\Debug\SrtView.pdb
